@@ -2,6 +2,7 @@
 
 ## 📌 Project Overview
 This project aims to analyze and visualize residential energy consumption data to help identify cost-saving opportunities and support energy-efficient decision-making. It simulates a real-world use case where a smart energy company wants to provide its customers with actionable insights based on their power usage patterns.
+![Energy Dashboard](dashboard/dashboard.png)
 
 ## 📊 Problem Statement
 Households often face high electricity bills due to peak-time energy usage. The goal is to analyze smart meter data and develop a dashboard that:
